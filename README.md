@@ -1,10 +1,10 @@
-# Netflix Backend
+# Netflix Backend 🎬
 
 A Netflix-style backend application developed using **Java** and **Spring Boot**, focused on building clean, scalable, and maintainable RESTful APIs.
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates a backend architecture inspired by modern streaming platforms.  
 It follows standard Spring Boot best practices, including layered architecture, REST API design, and Maven-based project structure.
@@ -13,7 +13,7 @@ The goal of this project is to showcase backend development skills using Java an
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack    
 
 - Java 17  
 - Spring Boot  
@@ -23,12 +23,12 @@ The goal of this project is to showcase backend development skills using Java an
 
 ---
 
-## Project Structure
+## 📌 Project Overview
 
 
 ---
 
-## Features
+## 🚀 Features
 
 - RESTful API-based backend architecture  
 - Layered project structure (Controller, Entity, Repository)  
@@ -38,7 +38,7 @@ The goal of this project is to showcase backend development skills using Java an
 
 ---
 
-## How to Run the Application
+## ▶️ How to Run the Project
 
 1. Clone the repository  
 2. Open the project in Eclipse or IntelliJ IDEA  
@@ -49,7 +49,7 @@ The goal of this project is to showcase backend development skills using Java an
 
 ---
 
-## Future Enhancements
+## 📈 Future Enhancements
 
 - Authentication and Authorization using Spring Security  
 - JWT-based user authentication  
@@ -59,13 +59,19 @@ The goal of this project is to showcase backend development skills using Java an
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Gnaneshwar Babu**  
 Java Backend Developer  
 
 ---
 
-## License
+## 📄 License
 
-This project is created for learning and demonstration purposes.
+This project is created for learning and demonstration purposes.            
+
+
+
+
+
+
